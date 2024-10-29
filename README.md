@@ -1,8 +1,19 @@
 ### Hi there 👋
 ### I am Manav Hirani
-Open source software developer
-Open to work
-Currently workng on manavhirani/portfolio
+I'm an open source software developer currently doing research at Syracuse University
+My areas of interest are
+- LLMs: fine tuning models, deploying open weight models on custom architecture
+- Distributed Computing: managing k8s clusters, making scalable systems, load balancing
+- API dev: improving inference latency, REST API, gRPC
+- Operating Systems: Linux
+
+Tech Stack
+1. Database
+  - Relational: Postgres
+  - NoSQL: Supabase
+2. Cloud
+  - Providers: AWS, GCP, Azure
+
 
 
 <!--
